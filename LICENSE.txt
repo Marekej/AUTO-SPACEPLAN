@@ -1,0 +1,28 @@
+ASAPY – Auto Planner  
+Copyright © 2025 [Your Full Name]
+
+All rights reserved.
+
+ASAPY is proprietary software. All intellectual property rights, including but not limited to the concept, structure, codebase, interface design, and all related content, are exclusively owned by [Your Full Name].
+
+This application is available solely as a hosted web service (SaaS). No source code, build, or executable is distributed.
+
+You are **not permitted** to:
+
+- copy, clone, reproduce, or distribute any part of this software or service,
+- reverse-engineer, decompile, or analyze the source code or underlying architecture,
+- use this software or any portion of it without explicit written authorization,
+- create any derivative works based on this software.
+
+Use of ASAPY is allowed only under a direct and individual license agreement with the author.  
+No rights are granted implicitly or otherwise.
+
+For licensing or usage inquiries, contact:  
+[Your Full Name]  
+[Your Email Address]  
+[LinkedIn / Website / GitHub profile]
+
+Unauthorized access, reproduction, or distribution will be considered a violation of copyright law and subject to legal action.
+
+Third-party components included in ASAPY (if any) are used in accordance with their respective licenses. These components remain the intellectual property of their respective authors.
+
