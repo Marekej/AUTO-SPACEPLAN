@@ -40,6 +40,6 @@ See the [LICENSE](./LICENSE.txt) file for full legal details.
 
 For licensing inquiries or collaboration opportunities:  
 **Marek Ejsztet**  
-✉️ [your.email@example.com]  
-🌐 [LinkedIn / website / GitHub profile]
+✉️ marekejsztet@gmail.com 
+🌐 marekejsztet.com
 
