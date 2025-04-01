@@ -1,37 +1,45 @@
-# AUTO-SPACEPLAN
-ASAPY – an intelligent auto planner for task and time management. All rights reserved.
-## License
+# ASAPY – Auto Planner for Architectural Space Planning
 
-This software is proprietary and protected by copyright.  
-See the [LICENSE](./LICENSE.txt) file for full details.
+**ASAPY** is a proprietary web-based application designed to assist in the creation of architectural layout concepts and functional space plans for commercial interiors.
 
-# ASAPY – Auto Planner
+Developed and owned exclusively by **Marek Ejsztet**, this software automates and optimizes the architectural planning process based on user-defined inputs.
 
-**ASAPY** is an intelligent, original auto planner designed to help users manage their tasks, time, and productivity with smart automation.  
-It was developed independently by **[Your Full Name]**, who holds full authorship and copyright to the concept and source code.
+## 🧠 Key Functionalities
 
-## ✨ Key Features
+1. **User Input Collection**  
+   - Users provide architectural requirements via a structured form (e.g. a table with desired room types, sizes, and preferences).
 
-- Automatic task scheduling based on priorities and time constraints
-- Smart conflict resolution and deadline adjustments
-- User-friendly interface (CLI or GUI, depending on your build)
-- Modular and scalable design
+2. **Optimized Building Selection**  
+   - Based on input data, ASAPY identifies the most suitable buildings with optimal rentable areas.
 
-## 📅 Development Status
+3. **Preliminary Sketch Generation**  
+   - The system produces an initial schematic layout of the user's space within the selected building.
 
-This project is in active development.  
-Feel free to watch this repository for updates or reach out for collaboration opportunities.
+4. **Detailed Space Plan (Spaceplan) Generation**  
+   - Automatically generates a visual plan including:
+     - All user-specified rooms,
+     - Full-height and glass partitions,
+     - Proposed door placements,
+     - Suggested furniture arrangements,
+     - Logical communication paths (circulation flow).
 
-## ⚠️ Legal Notice
+## 📎 Legal & Licensing
 
-This software is an **original work**, protected under copyright law.  
-All rights to the concept, source code, structure, and design are **reserved by the author**.
+This software is protected by a **proprietary license**. All copyrights, including the concept, design, and implementation, are the exclusive property of **Marek Ejsztet**.
 
-> 📌 Unauthorized copying, modification, or distribution of this code, in whole or in part, is strictly prohibited.
+The application is available **only as a hosted web service**. Source code, components, and binaries are **not publicly distributed**.
 
----
+### ❌ You may **not**:
+- Copy, modify, or reuse any portion of this application or its output,
+- Analyze, reverse-engineer, or extract code, structure, or logic,
+- Use this software or its services without the express written consent of the author.
+
+See the [LICENSE](./LICENSE.txt) file for full legal details.
 
 ## 📬 Contact
 
-For inquiries or collaboration requests:  
-marekejsztet@gmail.com
+For licensing inquiries or collaboration opportunities:  
+**Marek Ejsztet**  
+✉️ [your.email@example.com]  
+🌐 [LinkedIn / website / GitHub profile]
+
